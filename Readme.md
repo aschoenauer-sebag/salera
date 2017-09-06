@@ -1,6 +1,6 @@
 # SGD: Going as Fast as Possible, But Not Faster
 
-This repository contains the code for the deep learning optimization algorithms described in "SGD: Going as Fast as Possible, But Not Faster" (Alice Schoenauer-Sebag, Marc Schoenauer and Michèle Sebag, [lien arXiv]).
+This repository contains the code for the deep learning optimization algorithms described in "SGD: Going as Fast as Possible, But Not Faster" (Alice Schoenauer-Sebag, Marc Schoenauer and Michèle Sebag, [https://arxiv.org/abs/1709.01427]).
 
 ## Dependencies
 * Code: the only dependency is Torch, which can be installed following the instructions here: http://torch.ch/docs/getting-started.html
